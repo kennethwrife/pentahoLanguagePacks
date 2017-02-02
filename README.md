@@ -1,6 +1,6 @@
 # Introduction
 
-[Now you can have your Pentaho 5+ installation in your favourite language!]()
+[Now you can have your Pentaho installation in your favourite language!]()
 
 The *pentahoLanguagePacks* project is a Pentaho plugin that allows a system administrator to install any localised version of the user interface of the Pentaho Business Intelligence server. 
 
